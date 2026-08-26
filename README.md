@@ -1,6 +1,6 @@
 # Plastic Waste Detection with YOLO
 
-COCO-format Cox's Bazar beach plastic-waste dataset-এর জন্য YOLO11 training project.
+COCO-format Cox's Bazar beach plastic-waste dataset YOLO11 training project.
 
 ## Project files
 
